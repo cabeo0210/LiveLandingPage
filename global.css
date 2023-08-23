@@ -1,0 +1,10 @@
+body {
+  font-family: "Poppins";
+  background-color: #f9f9f9;
+}
+
+:root {
+  --green: #71a894;
+  --black: #303031;
+  --gray: #66645e;
+}
